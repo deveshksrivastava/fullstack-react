@@ -1,0 +1,90 @@
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error!","timestamp":"2024-11-25T23:55:51.733Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource\",\"status\":\"500\",\"responseTime\":\"10.392\"}","timestamp":"2024-11-25T23:55:51.748Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error!","timestamp":"2024-11-26T00:02:29.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource\",\"status\":\"500\",\"responseTime\":\"10.357\"}","timestamp":"2024-11-26T00:02:29.471Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error!","timestamp":"2024-11-26T00:02:40.018Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource\",\"status\":\"500\",\"responseTime\":\"2.553\"}","timestamp":"2024-11-26T00:02:40.021Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an info message","timestamp":"2024-11-26T00:03:09.746Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error message","timestamp":"2024-11-26T00:03:09.747Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning message","timestamp":"2024-11-26T00:03:09.748Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error!","timestamp":"2024-11-26T00:03:09.749Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/error\",\"status\":\"500\",\"responseTime\":\"4.423\"}","timestamp":"2024-11-26T00:03:09.751Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error!","timestamp":"2024-11-26T00:03:47.304Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource\",\"status\":\"500\",\"responseTime\":\"1.930\"}","timestamp":"2024-11-26T00:03:47.306Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is a simulated error! Api is not working as per expected","timestamp":"2024-11-26T00:04:29.951Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource\",\"status\":\"500\",\"responseTime\":\"13.795\"}","timestamp":"2024-11-26T00:04:29.967Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/resource34534\",\"status\":\"404\",\"responseTime\":\"11.853\"}","timestamp":"2024-11-26T00:05:46.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"4.989\"}","timestamp":"2024-11-26T06:25:51.576Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/favicon.ico\",\"status\":\"404\",\"responseTime\":\"1.214\"}","timestamp":"2024-11-26T06:25:54.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/v2\",\"status\":\"404\",\"responseTime\":\"0.670\"}","timestamp":"2024-11-26T06:26:00.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/v2/home\",\"status\":\"404\",\"responseTime\":\"7.542\"}","timestamp":"2024-11-26T06:27:38.762Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/v2/home\",\"status\":\"404\",\"responseTime\":\"3.895\"}","timestamp":"2024-11-26T06:28:55.187Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/home\",\"status\":\"200\",\"responseTime\":\"1.742\"}","timestamp":"2024-11-26T06:29:24.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/home\",\"status\":\"304\",\"responseTime\":\"6.013\"}","timestamp":"2024-11-26T06:37:11.259Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/home\",\"status\":\"404\",\"responseTime\":\"9.572\"}","timestamp":"2024-11-26T06:37:56.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/home\",\"status\":\"200\",\"responseTime\":\"5.040\"}","timestamp":"2024-11-26T06:38:49.990Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"4.272\"}","timestamp":"2024-11-26T06:41:41.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"3.829\"}","timestamp":"2024-11-26T07:01:54.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"0.973\"}","timestamp":"2024-11-26T07:02:46.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"7.384\"}","timestamp":"2024-11-26T08:16:10.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"3.432\"}","timestamp":"2024-11-26T08:17:28.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"2.960\"}","timestamp":"2024-11-27T04:48:00.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"3.532\"}","timestamp":"2024-11-27T04:49:14.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"7.541\"}","timestamp":"2024-11-27T04:50:28.524Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T04:52:38.674Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"12.519\"}","timestamp":"2024-11-27T04:52:38.685Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T04:54:11.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"10.798\"}","timestamp":"2024-11-27T04:54:11.369Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/home\",\"status\":\"304\",\"responseTime\":\"4.324\"}","timestamp":"2024-11-27T04:55:16.703Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"1.535\"}","timestamp":"2024-11-27T04:55:21.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"1.146\"}","timestamp":"2024-11-27T04:55:34.425Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T04:55:39.929Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"2.765\"}","timestamp":"2024-11-27T04:55:39.930Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T05:04:46.766Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"14.282\"}","timestamp":"2024-11-27T05:04:46.779Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"2.623\"}","timestamp":"2024-11-27T05:05:23.660Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"16.917\"}","timestamp":"2024-11-27T05:06:04.655Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"2.513\"}","timestamp":"2024-11-27T05:06:35.118Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"15.782\"}","timestamp":"2024-11-27T05:07:43.588Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T05:07:59.733Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"22.863\"}","timestamp":"2024-11-27T05:07:59.742Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T05:08:03.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"13.921\"}","timestamp":"2024-11-27T05:08:03.569Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User already exists","timestamp":"2024-11-27T05:08:06.003Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"500\",\"responseTime\":\"5.361\"}","timestamp":"2024-11-27T05:08:06.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"15.121\"}","timestamp":"2024-11-27T05:09:58.850Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"5.308\"}","timestamp":"2024-11-27T05:10:05.647Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"9.092\"}","timestamp":"2024-11-27T05:10:07.475Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"15.167\"}","timestamp":"2024-11-27T05:10:09.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"6.917\"}","timestamp":"2024-11-27T05:10:10.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"20.733\"}","timestamp":"2024-11-27T05:10:50.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"5.965\"}","timestamp":"2024-11-27T05:11:34.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"2.226\"}","timestamp":"2024-11-27T05:11:41.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/error\",\"status\":\"400\",\"responseTime\":\"18.012\"}","timestamp":"2024-11-27T05:11:51.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"200\",\"responseTime\":\"8.267\"}","timestamp":"2024-11-27T05:28:49.864Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/users\",\"status\":\"304\",\"responseTime\":\"4.607\"}","timestamp":"2024-11-27T05:29:24.452Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"4.131\"}","timestamp":"2024-11-27T05:31:39.666Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"1.652\"}","timestamp":"2024-11-27T05:33:31.521Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"4.771\"}","timestamp":"2024-11-27T05:33:44.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"1.188\"}","timestamp":"2024-11-27T05:33:49.354Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"4.377\"}","timestamp":"2024-11-27T05:34:34.796Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"3.918\"}","timestamp":"2024-11-27T05:34:55.959Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"5.082\"}","timestamp":"2024-11-27T05:35:39.930Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"4.171\"}","timestamp":"2024-11-27T05:36:10.293Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"3.190\"}","timestamp":"2024-11-27T05:36:12.003Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"4.559\"}","timestamp":"2024-11-27T05:36:43.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"1.580\"}","timestamp":"2024-11-27T05:36:50.145Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"3.552\"}","timestamp":"2024-11-27T05:37:04.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"3.943\"}","timestamp":"2024-11-27T05:46:38.265Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/bar\",\"status\":\"200\",\"responseTime\":\"5.073\"}","timestamp":"2024-11-27T05:50:40.057Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"4.453\"}","timestamp":"2024-11-27T07:48:43.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"3.979\"}","timestamp":"2024-11-27T07:50:31.581Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"5.251\"}","timestamp":"2024-11-27T07:51:15.046Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"1.931\"}","timestamp":"2024-11-27T07:51:19.385Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"4.240\"}","timestamp":"2024-11-27T07:51:24.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"4.941\"}","timestamp":"2024-11-27T07:52:33.414Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"4.782\"}","timestamp":"2024-11-27T07:53:07.120Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"2.365\"}","timestamp":"2024-11-27T07:53:11.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"400\",\"responseTime\":\"6.620\"}","timestamp":"2024-11-27T07:53:39.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"400\",\"responseTime\":\"1.588\"}","timestamp":"2024-11-27T07:53:44.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v2/products\",\"status\":\"200\",\"responseTime\":\"4.745\"}","timestamp":"2024-11-27T07:55:14.966Z"}
